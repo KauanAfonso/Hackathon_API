@@ -7,7 +7,7 @@ data = [
     {
         "name": "Kauan Afonso",
         "EDV": "12345678",
-        "companyEmailAddress": "AfonsinhaKauan@company.com",
+        "companyEmailAddress": "Kauan@company.com",
         "CPF": "543.543.675-16",
         "Passport_n": "AA011906",
         "CVV": "125",
